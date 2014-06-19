@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[bostonlink.github.io]]></title>
-  <link href="http://bostonlink.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | bostonlink.github.io]]></title>
+  <link href="http://bostonlink.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://bostonlink.github.io/"/>
   <updated>2014-06-19T12:23:35-04:00</updated>
   <id>http://bostonlink.github.io/</id>
