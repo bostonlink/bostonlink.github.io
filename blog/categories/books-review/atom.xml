@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[bostonlink.github.io]]></title>
-  <link href="http://bostonlink.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Books,review | bostonlink.github.io]]></title>
+  <link href="http://bostonlink.github.io/blog/categories/books-review/atom.xml" rel="self"/>
   <link href="http://bostonlink.github.io/"/>
   <updated>2014-12-01T17:00:27-05:00</updated>
   <id>http://bostonlink.github.io/</id>
@@ -29,17 +29,6 @@
 <p>-bl</p>
 
 <p>PS> I Hope you all had a Happy Thanksgiving!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://bostonlink.github.io/blog/2014/06/19/welcome/"/>
-    <updated>2014-06-19T12:15:52-04:00</updated>
-    <id>http://bostonlink.github.io/blog/2014/06/19/welcome</id>
-    <content type="html"><![CDATA[<p>Welcome to my blog. I am currently experimenting with static blogging and am really enjoying it so far. Overall, this blog is for my personal views and opinions that I have and would like to publish to the world. I am planning on covering topics such as Infromation Security, Crypto-Currency, and Privacy which are some of my interestes and hobbies. Please stay tuned and come back often for more updates and posts.</p>
-
-<p>&mdash;bostonlink</p>
 ]]></content>
   </entry>
   
